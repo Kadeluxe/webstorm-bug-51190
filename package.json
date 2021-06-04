@@ -1,0 +1,6 @@
+{
+  "name": "webstorm-bug-51190",
+  "dependencies": {
+    "vue": "next"
+  }
+}
